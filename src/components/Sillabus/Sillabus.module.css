@@ -134,10 +134,10 @@
 
 .itemText {
   color: #000000;
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-family: 'AssistantR', sans-serif;
   line-height: 1.6;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 /* Responsive Design */
@@ -184,7 +184,8 @@
   }
   
   .itemText {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
+    font-weight: 500;
   }
 }
 
@@ -231,7 +232,8 @@
   }
   
   .itemText {
-    font-size: 0.9rem;
+    font-size: 0.95rem;
+    font-weight: 500;
   }
 }
 
@@ -255,10 +257,15 @@
   .dayTitle {
     font-size: 1.4rem;
   }
+  
+  .itemText {
+    font-size: 1rem;
+    font-weight: 500;
+  }
 }
 
 /* 550px - 650px */
-@media (min-width: 551px) and (max-width: 550px) {
+@media (min-width: 551px) and (max-width: 650px) {
   .container {
     padding: 1.6rem;
     border-radius: 3.2rem;
@@ -267,6 +274,11 @@
   .dayNumber {
     font-size: 4.5rem;
   }
+  
+  .itemText {
+    font-size: 1rem;
+    font-weight: 500;
+  }
 }
 
 /* 650px - 750px */
@@ -274,11 +286,21 @@
   .dayTitle {
     font-size: 1.5rem;
   }
+  
+  .itemText {
+    font-size: 1.05rem;
+    font-weight: 500;
+  }
 }
 
 /* 750px and above */
 @media (min-width: 751px) {
   .dayTitle {
     font-size: 1.5rem;
+  }
+  
+  .itemText {
+    font-size: 1.05rem;
+    font-weight: 500;
   }
 }

@@ -17,11 +17,14 @@ function App() {
   <FirstScreen/>
   <SecondScreen/>
   <AboutMe/>
-  <Recommendations/>
+ 
   <ThirdScreen/>
   <ParentalGuidanceScreen/>
+  
 <ForthScreen/>
+
 <HeaderComponent/>
+ <Recommendations/>
 <ContactForm/>
 <ByMe/>
   </>

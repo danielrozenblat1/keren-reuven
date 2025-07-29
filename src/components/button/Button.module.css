@@ -7,7 +7,7 @@
 .button {
   position: relative;
   /* גרדיאנט בגוון צהוב-שמנת */
-  background: linear-gradient(135deg, #faf5e8 0%, #fdf9ed 50%, #fffcf5 100%);
+  background: linear-gradient(135deg, #fff5dd 0%, #e6dfcb 50%, #fff8e9 100%);
   border: 1px solid rgba(240, 230, 200, 0.5);  /* בורדר בגוון צהוב-שמנת */
   color: #4a4540;  /* צבע טקסט כהה יותר לקריאות משופרת */
   padding: 16px 36px;  /* הגדלת הפדינג מעט */

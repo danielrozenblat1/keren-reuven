@@ -2,7 +2,7 @@
 
 .container {
   display: flex;
-  min-height: 100vh;
+  min-height: 110vh;
   direction: rtl;
   font-family: 'Assistant', sans-serif;
   position: relative;
