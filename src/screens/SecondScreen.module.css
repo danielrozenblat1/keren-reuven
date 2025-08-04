@@ -34,7 +34,7 @@
    }
    
    .description {
-      font-size: 1.1rem;
+      font-size: 1.15rem;
       width: 90%;
       margin: 2% auto;
    }
@@ -43,12 +43,12 @@
 /* 350-450px */
 @media (min-width: 350px) and (max-width: 450px) {
    .title {
-      font-size: 1.5rem;
+      font-size: 1.7rem;
       text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
    }
    
    .description {
-      font-size: 1.1rem;
+      font-size: 1.2rem;
       width: 85%;
       margin: 1.5% auto;
    }

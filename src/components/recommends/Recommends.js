@@ -57,7 +57,7 @@ const Recommendations = () => {
           ))}
         </Slider>
       </div>
-    
+
     </>
   );
 };

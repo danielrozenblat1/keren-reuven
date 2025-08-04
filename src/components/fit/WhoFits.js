@@ -42,7 +42,12 @@ const items = [
     {
       text: "את מחפשת פתרון מעשי עם התחייבות לתוצאה שיביא לשקט, הרמוניה ותקשורת בריאה בבית",
       icon: <Star className={styles.icon} />
+    },
+  {
+      text: " את הורה לילד עם קושי בוויסות חושי וקושי בוויסות רגשי, ביטחון עצמי נמוך, קשיים חברתיים וקושי בלעמוד על שלו.",
+      icon: <Star className={styles.icon} />
     }
+    
   ];
   return <>
     <div className={styles.container}>

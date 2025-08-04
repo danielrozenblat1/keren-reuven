@@ -23,11 +23,23 @@ return <>
       <div className={styles.description}>חשוב לי שתביני שזו לא אשמתך! פשוט אין לך עדיין את הכלים שיעזרו לך לנהל ולהתנהל נכון עם הילדים שלך</div>
           <div className={styles.title}>והחלטתי</div>
             <div className={styles.description}> שכל עוד אני יכולה ומסוגלת אני מתכוונת לעשות ה-כ-ל, 
-        כדי שילדים והורים שחווים חיים קשיים/אתגרים - לא יעברו את המסע הזה לבד.</div>
+        כדי שילדים והורים שחווים קשיים/אתגרים - לא יעברו את המסע הזה לבד.</div>
        <div className={styles.title}>אז תחזיקי חזק.. ככה זה הולך לעבוד:</div>
         <div className={styles.description}>3 חודשי ליווי שבסופם תגיעי למצב של הרמוניה בבית, שקט נפשי <br/>
          <strong>ותתחילי באמת להנות מהאמהות שלך</strong></div>
        <SyllabusComponent/>
+
+              <div className={styles.title}>חשוב לי לציין</div>
+    <div className={styles.description}>
+  אני מאמינה באחריות הדדית - שלך כהורה ושלי כמנחת תהליך.  
+  השיטה שלי מבוססת על תקשורת מקרבת, אינטליגנציה רגשית, גבולות ברורים והעצמה - והיא נבנתה בדיוק עבור הורים שמוכנים להתחייב באמת לשינוי.
+  <br/><br/>
+  ולכן, אני מעניקה <strong style={{ color: "#2c2c2c", backgroundColor: "#ffe7a3", padding: "4px 8px", borderRadius: "6px", display: "inline-block" }}>100% אחריות על התהליך</strong>.  
+  אם את מגויסת ב-100% - את תראי תוצאות תוך שבועיים.  
+  ממש כך. וזה לא הבטחה ריקה - זו התחייבות.  
+  <br/><br/>
+  כי כשיש שיטה שעובדת, ויש הורה שבא לעבוד - השינוי פשוט קורה.
+</div>
        <div className={styles.title}>כמה מילים מהלקוחות שלי שעברו את התהליך</div>
         <div className={styles.description}>תגללו כלפי מעלה כדי לחשוף עוד המלצות</div>
        <Testimonials testimonialImages={images}/>
