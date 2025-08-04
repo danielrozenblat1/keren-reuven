@@ -166,7 +166,7 @@ const FirstScreen = () => {
         {/* ימין: תוכן */}
         <div className={styles.rightSection}>
           <div className={styles.badge}>
-            במיוחד עבור אמהות שרוצות להנות באמת מהילדים שלהן ולהפוך לאמהות שהן תמיד חלמו להיות
+            במיוחד עבור אמהות שרוצות לעשות שינוי בבית ולהפסיק את שגרת הצעקות והריבים
           </div>
 
           <div className={styles.mainContent}>
